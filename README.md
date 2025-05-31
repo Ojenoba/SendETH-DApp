@@ -7,7 +7,6 @@ SendETH DApp is a decentralized application (DApp) built using **ethers.js** tha
 - Send ETH to another wallet
 - Interact with a **voting smart contract** deployed on the **Sepolia Testnet**
 
-## 🏗 Project Structure
 
 
 ## 🔧 Setup & Installation
