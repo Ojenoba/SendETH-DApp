@@ -1,6 +1,6 @@
 window.castVote = async function (proposalNumber) {
     try {
-        if (![0, 1].includes(proposalNumber)) {
+        if (![1, 2].includes(proposalNumber)) {
             alert("Invalid proposal number! Must be 1 or 2.");
             return;
         }
